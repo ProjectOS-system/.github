@@ -6,7 +6,7 @@
 
 ## 📋 Visão Geral
 
-A **OS SYSTEM** é uma organização pioneira no desenvolvimento de uma infraestrutura integrada de software, desenhada para unir **Inteligência Artificial Autônoma**, **Governança de Código Local**, **Gestão Executiva de Projetos** e **Produtividade Unificada**.
+A **VTI OS SYSTEM** é uma organização pioneira no desenvolvimento de uma infraestrutura integrada de software, desenhada para unir **Inteligência Artificial Autônoma**, **Governança de Código Local**, **Gestão Executiva de Projetos** e **Produtividade Unificada**.
 
 Nosso ecossistema resolve a fragmentação de contexto em equipes técnicas e executivas. Conectamos todas as pontas da engenharia de software — da captura diária de trabalho à prestação de contas com métricas de infraestrutura, mantendo os agentes de IA estritamente alinhados com as regras e memória dos projetos.
 
@@ -93,5 +93,5 @@ graph TD
 ---
 
 <p align="center">
-  <sub>OS SYSTEM — Empowering Software Engineering with Autonomous AI & Governance</sub>
+  <sub>VTI OS SYSTEM — Empowering Software Engineering with Autonomous AI & Governance</sub>
 </p>
