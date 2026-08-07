@@ -1,4 +1,4 @@
-# 🌐 OS SYSTEM — Autonomous Software Engineering & Governance Ecosystem
+# 🌐 VTI OS SYSTEM — Autonomous Software Engineering & Governance Ecosystem
 
 > **Ecossistema autônomo de Engenharia de Software, Governança Técnica, Gestão Executiva e Memória Cognitiva para Agentes de IA.**
 
