@@ -94,4 +94,5 @@ graph TD
 
 <p align="center">
   <sub>VTI OS SYSTEM — Empowering Software Engineering with Autonomous AI & Governance</sub>
+  <sub>by Caio Gonçalves</sub>
 </p>
