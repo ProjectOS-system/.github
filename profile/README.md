@@ -168,19 +168,6 @@ graph TD
 
 ---
 
-## 🚦 Mapeamento de Portas e Serviços Locais
-
-| Aplicação | Serviço | Porta Padrão | Protocolo |
-|:---|:---|:---:|:---:|
-| **Core OS** | API & Web Frontend | `31338` | HTTP / WS |
-| **Project OS** | App & Server Dedicated | `59238` | HTTP |
-| **DevGuard OS** | Backend Engine | `59236` | HTTP |
-| **DevGuard OS** | Desktop Frontend | `59237` | HTTP |
-| **Memory OS** | Frontend UI | `59234` | HTTP |
-| **Memory OS** | Backend Server & RAG | `59235` | HTTP / SSE / MCP stdio |
-
----
-
 <p align="center">
   <sub>OS SYSTEM — Empowering Software Engineering with Autonomous AI & Governance by Caio Gonçalves</sub>
 </p>
