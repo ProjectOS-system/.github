@@ -1,4 +1,4 @@
-# 🌐 OS SYSTEM — Autonomous Software Engineering & Governance Ecosystem
+# 🌐 VTI OS SYSTEM — Autonomous Software Engineering & Governance Ecosystem
 
 > **Ecossistema autônomo de Engenharia de Software, Governança Técnica, Gestão Executiva e Memória Cognitiva para Agentes de IA.**
 
@@ -6,7 +6,7 @@
 
 ## 📋 Visão Geral Executiva
 
-A **OS SYSTEM** é uma infraestrutura de software de alta performance projetada para eliminar a fragmentação de contexto em equipes técnicas e executivas. O ecossistema une **Inteligência Artificial Autônoma (RAG & Multi-IDE)**, **Governança de Código Local & Compliance**, **Gestão Executiva de Projetos (PMBOK/Agile & TI Reports)** e **Produtividade & Timesheet Inteligente**.
+A **VTI OS SYSTEM** é uma infraestrutura de software de alta performance projetada para eliminar a fragmentação de contexto em equipes técnicas e executivas. O ecossistema une **Inteligência Artificial Autônoma (RAG & Multi-IDE)**, **Governança de Código Local & Compliance**, **Gestão Executiva de Projetos (PMBOK/Agile & TI Reports)** e **Produtividade & Timesheet Inteligente**.
 
 Em ambientes modernos de desenvolvimento, desenvolvedores e gerentes enfrentam perda contínua de contexto trocando entre ferramentas de comunicação (Gmail, Slack, WhatsApp), sistemas de tarefas (Google Tasks, Kanban, Gantt), ferramentas de QA/Git e plataformas de IA desvinculadas da memória do projeto. A **OS SYSTEM** conecta de forma fluida todas as etapas da engenharia de software — da rotina diária ao fechamento de SLAs e auditorias de código — garantindo que os agentes de IA operem sem alucinação, ancorados na memória viva dos repositórios.
 
@@ -169,5 +169,5 @@ graph TD
 ---
 
 <p align="center">
-  <sub>OS SYSTEM — Empowering Software Engineering with Autonomous AI & Governance by Caio Gonçalves</sub>
+  <sub>VTI OS SYSTEM — Empowering Software Engineering with Autonomous AI & Governance by Caio Gonçalves</sub>
 </p>
